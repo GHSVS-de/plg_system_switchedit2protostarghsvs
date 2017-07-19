@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7.2" type="plugin" group="system" method="upgrade">
+ <name>PLG_SYSTEM_SWITCHEDIT2PROTOSTARGHSVS</name>
+ <author>G@HService Berlin Neukölln, Volkmar Volli Schlothauer</author>
+ <creationDate>2017-07-19</creationDate>
+ <copyright>Copyright (C) 2017, G@HService Berlin Neukölln, Volkmar Volli Schlothauer. All rights reserved.</copyright>
+ <license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+ <authorEmail>switchedit2protostar @ ghsvs.de</authorEmail>
+ <authorUrl>http://www.ghsvs.de</authorUrl>
+ <version>2017.07.19</version>
+ <versionHistory>
+2017.07.19: https://forum.joomla.de/index.php/Thread/4137-Artikel-%C3%A4ndern-kommt-mit-anderem-Template-als-Artikel-erstellen-Joomla-Versions-/
+</versionHistory>
+ <description>Seit 3.7.2 ist es nicht möglich, dem Artikel-Edit-Formular einen Templatestil zuzuordnen. Dieses Plugin leitet deshalb auf das Core-Template Protostar um.</description>
+ <files>
+  <filename plugin="switchedit2protostarghsvs">switchedit2protostarghsvs.php</filename>
+  <filename>LICENSE.txt</filename>
+ </files>
+ <config />
+</extension>
