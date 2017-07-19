@@ -11,7 +11,7 @@
  <versionHistory>
 2017.07.19: https://forum.joomla.de/index.php/Thread/4137-Artikel-%C3%A4ndern-kommt-mit-anderem-Template-als-Artikel-erstellen-Joomla-Versions-/
 </versionHistory>
- <description>Seit Joomla 3.7.2 ist es nicht möglich, dem Artikel-Edit-Formular (Frontend) einen Templatestil zuzuordnen. Dieses Plugin leitet deshalb Artikel-Bearbeiten-Ansichten auf das Core-Template Protostar um.</description>
+ <description>Seit Joomla 3.7.3 ist es endgültig nicht mehr möglich, dem Artikel-Edit-Formular (Frontend) einen Templatestil zuzuordnen. Dieses Plugin leitet deshalb Artikel-Bearbeiten-Ansichten auf das Core-Template Protostar um.</description>
  <files>
   <filename plugin="switchedit2protostarghsvs">switchedit2protostarghsvs.php</filename>
   <filename>LICENSE.txt</filename>
