@@ -9,3 +9,5 @@ This plugin switches the Edit view to Joomla's core template protostar.
 
 Inspired by German thread:
 https://forum.joomla.de/index.php/Thread/4137-Artikel-%C3%A4ndern-kommt-mit-anderem-Template-als-Artikel-erstellen-Joomla-Versions-/
+
+THIS IS a less-than-ideal solution. You will see whenever it's not ideal ;-)
