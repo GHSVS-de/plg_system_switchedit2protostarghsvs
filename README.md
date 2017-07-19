@@ -1,5 +1,5 @@
 # plg_system_switchedit2protostarghsvs
-Force template Protostar for article edit form in FE.
+Force template Protostar for article edit form in Joomla FE.
 
 Because of an PR https://github.com/joomla/joomla-cms/pull/16756 Edit Article doesn't use menu item of Create Article any longer. Thus Edit Article doesn't use the Template Style set in Create Article menu item any longer.
 
