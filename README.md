@@ -1,3 +1,5 @@
+There's another plugin. Test this one: https://github.com/nielsnuebel/plg_system_nnedittemplate/releases
+
 # plg_system_switchedit2protostarghsvs
 Force template Protostar for article edit form in Joomla FE.
 
